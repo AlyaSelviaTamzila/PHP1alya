@@ -1,1 +1,14 @@
 # PHP1alya
+# Latihan
+![alt text](https://github.com/AlyaSelviaTamzila/PHP1alya/blob/master/c.jpg)
+# Latihan1
+![alt text](https://github.com/AlyaSelviaTamzila/PHP1alya/blob/master/1.jpg)
+# Latihan2
+![alt text](https://github.com/AlyaSelviaTamzila/PHP1alya/blob/master/2.jpg)
+# Latihan3
+![alt text](https://github.com/AlyaSelviaTamzila/PHP1alya/blob/master/3.jpg)
+# Latihan4
+![alt text](https://github.com/AlyaSelviaTamzila/PHP1alya/blob/master/4.jpg)
+# Latihan5
+![alt text](https://github.com/AlyaSelviaTamzila/PHP1alya/blob/master/5a.jpg)
+![alt text](https://github.com/AlyaSelviaTamzila/PHP1alya/blob/master/5b.jpg)
